@@ -1,0 +1,8 @@
+[package]
+name = "tiledatarepository-sys"
+version = "0.1.0"
+edition = "2021"
+description = "Windissect-generated Rust FFI bindings for TileDataRepository.dll. Windows only."
+license = "MIT"
+
+[dependencies]

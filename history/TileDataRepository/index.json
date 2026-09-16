@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "TileDataRepository.dll",
+  "latest": "827127013-0A2D5857C065B0B76A6F8CF280AC149F-1",
+  "builds": [
+    {
+      "key": "827127013-0A2D5857C065B0B76A6F8CF280AC149F-1",
+      "timestamp": "827127013",
+      "pdb_guid": "0A2D5857C065B0B76A6F8CF280AC149F",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/827127013-0A2D5857C065B0B76A6F8CF280AC149F-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
